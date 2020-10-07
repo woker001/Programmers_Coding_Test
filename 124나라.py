@@ -1,4 +1,5 @@
-##124
+##124나라
+
 def solution(n):
     answer = ''
     num_124 = [1, 2, 4]
