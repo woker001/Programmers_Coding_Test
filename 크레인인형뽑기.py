@@ -1,3 +1,4 @@
+#
 def solution(board, moves):
     answer = 0
     count = 0
